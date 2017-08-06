@@ -1,0 +1,10 @@
+learning_rate = 0.01
+max_steps = 20000
+batch_size = 1
+num_steps = 6
+vocab_size = 2
+log_dir = 'log'
+train_size = 1000
+test_size = 2000
+unit_size = 4
+num_layers = 2
